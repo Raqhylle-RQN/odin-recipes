@@ -1,3 +1,3 @@
 # odin-recipes
-Recipes for classic Filipino dishes.
+Recipes for delicious filling snacks.
 A self Reflection on what i will turn this repository into.
