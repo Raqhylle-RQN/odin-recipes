@@ -1,3 +1,4 @@
-# odin-recipes
-Recipes for delicious filling snacks.
-A self Reflection on what i will turn this repository into.
+# Odin Recipes
+A website for recipes of delicious and filling snacks.
+
+
